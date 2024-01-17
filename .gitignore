@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# custom
+.DS_Store
+data_backup/
+cookie-Untitled.ipynb
+
 # Distribution / packaging
 .Python
 build/
